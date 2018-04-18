@@ -32,4 +32,4 @@ Selenium test case
 
 *** Keywords ***
 Activities On Failure
-        Capture Page Screenshot    ${CURDIR}/Screenshots/${TEST NAME}_{index}.jpg
+        Capture Page Screenshot    Screenshots/${TEST NAME}_{index}.jpg
